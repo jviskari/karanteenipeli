@@ -1,5 +1,5 @@
 # karanteenipeli
-Korttipeli
+
 Korona-korttipeli (c) Joonas Viskari 2020
 -------------------------------------------------------------------------------
 
